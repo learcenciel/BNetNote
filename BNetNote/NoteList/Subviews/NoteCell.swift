@@ -2,7 +2,7 @@
 //  NoteCell.swift
 //  BNetNote
 //
-//  Created by Arview on 13.08.2020.
+//  Created by Alexander on 13.08.2020.
 //
 
 import SnapKit
